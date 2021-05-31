@@ -31,4 +31,4 @@
     
     ##### **how to put a link?**
     
-   *Format: [alt](url)*
+   *Format: [alt] (url)*
