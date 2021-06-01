@@ -7,6 +7,7 @@ Table of contents
 | Syntax      | Description |
 | ----------- | ----------- |
 | read01     | [link](https://github.com/Tasneemalabsi/reading-notes/blob/main/read01.md)     |
+| lab01   | [link](https://github.com/Tasneemalabsi/reading-notes/blob/main/lab01.md)       |
 ## **What is growth mindset**
 *it's the belief that the mind can improve and be more creative, that the fixed mindset traits such as intelligence and talent can always get better*
 
