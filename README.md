@@ -1,4 +1,6 @@
 # Reading-notes
+
+Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate from the University of Jordan, I know C++ and some Java programming and really excited to know more
 ## **What is growth mindset**
 *it's the belief that the mind can improve and be more creative, that the fixed mindset traits such as intelligence and talent can always get better*
 
