@@ -6,6 +6,7 @@ Table of contents
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| read01     | [link](https://github.com/Tasneemalabsi/reading-notes/blob/main/read01.md)     |
-| lab01   | [link](https://github.com/Tasneemalabsi/reading-notes/blob/main/lab01.md)       |
-| read02  | [link](https://github.com/Tasneemalabsi/reading-notes/blob/main/read02.md)      |
+| read01     | [link](https://tasneemalabsi.github.io/reading-notes/read01)     |
+| lab01   | [link](https://tasneemalabsi.github.io/reading-notes/lab01)       |
+| read02  | [link](https://tasneemalabsi.github.io/reading-notes/read02)      |
+
