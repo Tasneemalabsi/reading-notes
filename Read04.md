@@ -1,4 +1,4 @@
-# Css summary
+# CSS summary
 ## what is css?
 *css stands for Cascading Style Sheets, and it is a language for specifying how documents are presented to users, how they are styled, laid out, etc.*
  
