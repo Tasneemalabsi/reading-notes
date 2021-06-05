@@ -4,7 +4,7 @@ Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate fr
 
 Table of contents
 
-| Syntax      | Description |
+| the file name     | link |
 | ----------- | ----------- |
 | read01     | [link](https://tasneemalabsi.github.io/reading-notes/read01)     |
 | lab01   | [link](https://tasneemalabsi.github.io/reading-notes/lab01)       |
@@ -13,4 +13,6 @@ Table of contents
 | Read04 | [link](https://tasneemalabsi.github.io/reading-notes/Read04)      |
 | read06 | [link](https://tasneemalabsi.github.io/reading-notes/read06)      |
 | read07 | [link](https://tasneemalabsi.github.io/reading-notes/read07)      |
+| read08 | [link](https://tasneemalabsi.github.io/reading-notes/read08)      |
+
 
