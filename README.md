@@ -12,4 +12,5 @@ Table of contents
 | read03   | [link](https://tasneemalabsi.github.io/reading-notes/read03)       |
 | Read04 | [link](https://tasneemalabsi.github.io/reading-notes/Read04)      |
 | read06 | [link](https://tasneemalabsi.github.io/reading-notes/read06)      |
+| read07 | [link](https://tasneemalabsi.github.io/reading-notes/read07)      |
 
