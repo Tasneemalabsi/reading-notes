@@ -1,10 +1,12 @@
 # Reading-notes
 
-Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate from the University of Jordan, I know C++ and some Java programming and really excited to know more
+Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate from the University of Jordan, I know some C++ and Java programming and really excited to learn more
 
-Table of contents
+** this website has some links to some topics that talk about HTML, CSS, javascript, and markdown, you can find these links below next to the reads, these links will make coding easier for you and teach you alot. 
 
-| the file name     | link |
+## code 102 reading notes
+
+| read number   | link |
 | ----------- | ----------- |
 | read01     | [link](https://tasneemalabsi.github.io/reading-notes/read01)     |
 | lab01   | [link](https://tasneemalabsi.github.io/reading-notes/lab01)       |
@@ -15,4 +17,22 @@ Table of contents
 | read07 | [link](https://tasneemalabsi.github.io/reading-notes/read07)      |
 | read08 | [link](https://tasneemalabsi.github.io/reading-notes/read08)      |
 
+## Code 201 Reading Notes
 
+| read number   | link |
+| ----------- | ----------- |
+| read01     | [link]     |
+| read02  | [link]      |
+| read03   | [link]       |
+| Read04 | [link]      |
+| read05 | [link]     |
+| read06 | [link]      |
+| read07 | [link]      |
+| read08   | [link]     |
+| read09  | [link]      |
+| read10   | [link]       |
+| Read11 | [link]      |
+| read12 | [link]     |
+| read13 | [link]      |
+| read14 | [link]      |
+| read15 | [link]      |
