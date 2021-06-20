@@ -2,7 +2,7 @@
 
 Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate from the University of Jordan, I know some C++ and Java programming and really excited to learn more
 
-** this website has some links to some topics that talk about HTML, CSS, javascript, and markdown, you can find these links below next to the reads, these links will make coding easier for you and teach you alot. 
+** this website has some links to some topics that talk about HTML, CSS, javascript, and markdown, you can find these links below next to the reads, these links will make coding easier for you and teach you alot.** 
 
 ## code 102 reading notes
 
@@ -21,7 +21,7 @@ Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate fr
 
 | read number   | link |
 | ----------- | ----------- |
-| read01     | [link]     |
+| class01     | [link](https://tasneemalabsi.github.io/reading-notes/class01)    |
 | read02  | [link]      |
 | read03   | [link]       |
 | Read04 | [link]      |
