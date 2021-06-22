@@ -194,6 +194,235 @@ For example:
 
 `overflow: scroll;}`
 
-the results will be: 
+### Border, Margin & Padding in CSS
+*Every box has three available properties that
+can be adjusted to control its appearance:*
+1. Border
+Every box has a border (even if
+it is not visible or is specified to
+be 0 pixels wide). The border
+separates the edge of one box
+from another.
+2. Margin
+Margins sit outside the edge
+of the border. You can set the
+width of a margin to create a
+gap between the borders of two
+adjacent boxes.
+3. Padding
+Padding is the space between
+the border of a box and any
+content contained within it.
+Adding padding can increase the
+readability of its contents.
 
-![results]()
+**About borders:**
+- There is a property called border width which
+is used to control the width
+of a border. The value of this
+property can either be given
+in pixels or using one of the
+following values: thin, medium, thick
+- another property for borders is border style, this property controls the style of borders, they might be solid, dotted, dashed,...
+- you can control the color of a border using the border-color property.
+- The border property allows you
+to specify the width, style and
+color of a border in one property
+(and the values should be coded
+in that specific order). for example :
+
+`p {`
+
+`width: 250px;`
+
+`border: 3px dotted #0088dd;}`
+
+**About alignments and display:**
+
+-  you can center or move your box to left and right using text-align property, for example:
+
+`body {
+text-align: center;}` this command will center the body element
+
+- The display property allows
+you to turn an inline element
+into a block-level element or vice
+versa, and can also be used to
+hide an element from the page.
+The values this property can
+take are:
+1. inline
+This causes a block-level
+element to act like an inline
+element.
+2. block
+This causes an inline element to
+act like a block-level element.
+3. inline-block
+This causes a block-level
+element to flow like an inline
+element, while retaining other
+features of a block-level element.
+4. none
+This hides an element from the
+page. 
+
+**more notes about boxes:**
+
+- Hiding boxes: The visibility property allows
+you to hide boxes from users
+but It leaves a space where the
+element would have been.
+- Image borders: The border-image property
+applies an image to the border of
+any box. It takes a background
+image and slices it into nine
+pieces. 
+- box shadows: The box-shadow property
+allows you to add a drop shadow
+around a box.
+- eliptical shapes: To create more complex shapes, you can specify different distances for the horizontal and the vertical parts of the rounded corners. For example, this will create a radius that is wider than it is tall:
+
+`border-radius: 80px 50px;`
+
+## Arrays in JavaScript:
+
+*An array is a special type of variable. It doesn't just store one value; it stores a list of values.*
+
+- You should consider using an
+array whenever you are working
+with a list or a set of values that
+are related to each other.
+- Arrays are especially helpful
+when you do not know how
+many items a list will contain
+because, when you create the
+array, you do not need to specify
+how many values it will hold. 
+- You can create an array and give it
+a name just like you would any
+other variable (using the var
+keyword followed by the name of
+the array).
+- The values are assigned to the
+array inside a pair of square
+brackets, and each value is
+separated by a comma.
+- The values in the array do not need
+to be the same data type, so you
+can store a string, a number and
+a Boolean all in the same array. 
+
+example for arrays : 
+
+`var colors;`
+
+`colors ['white', 'black', ' custom'];`
+
+- Values in an array are accessed as if they are in
+a numbered list. It is important to know that the
+numbering of this list starts at zero (not one). 
+
+- To access a value from an array,
+after the array name you specify
+the index number for that value
+inside square brackets. 
+
+## Switch statement in JavaScript:
+
+*you can use the switch statement to select one of many code blocks to be executed.*
+
+**Syntax:**
+
+`switch (level) {`
+
+`case 'One ':`
+
+`title= 'Level 1 ' ;`
+
+`break;`
+
+`case 'Two':`
+
+`title = ' Level 2 ' ;`
+
+`break;`
+
+`case ' Three' :`
+
+`title = 'Level 3' ;`
+
+`break ;`
+
+`default :`
+
+`title= 'Test';`
+
+`break;}` 
+
+- The switch expression is evaluated once.
+- The value of the expression is compared with the values of each case.
+- If there is a match, the associated block of code is executed.
+- If there is no match, the default code block is executed.
+
+## TYPE COERCION & WEAK TYPING in JavaScript
+*If you use a data type JavaScript did not expect,
+it tries to make sense of the operation rather
+than report an error.*
+
+| data type   | purpose |
+| ----------- | ----------- |
+|  string    |    Text|
+|  number | number     |
+| boolean| true or false     |
+| null| empty values    |
+
+- JavaScript can convert data
+types behind the scenes to
+complete an operation. This is
+known as type coercion. For
+example, a string 'l ' could be
+converted to a number 1 in the
+following expression:(' 1' > 0).
+As a result, the above expression
+would evaluate to true.
+- JavaScript is said to use weak
+typing because the data type
+for a value can change. Some
+other languages require that you
+specify what data type
+each variable will be. They are
+said to use strong typing. 
+
+### Truthy and Falsy values in JS
+
+- Falsy values are treated as if they
+are fa 1 se. The table to the left
+shows a hi ghScore variable with
+a series of values, all of which
+are falsy. falsy value is treated as the number 0
+- Truthy values are treated as if
+they are true. Almost everything
+that is not in the falsy table can
+be treated as if it were true. Truthy values can also be treated as the number 1. 
+
+## Loops in JavaScript
+- for loop : A for loop repeats until a specified condition evaluates to false. Syntax:
+
+`for ([initialExpression]; [conditionExpression]; [incrementExpression])`
+  
+  `{statement}`
+
+  - do...while statement: The do...while statement repeats until a specified condition evaluates to false. syntax:
+
+  `do`
+
+  `{statement}`
+
+`while (condition);`
+
+- while statement: A while statement executes its statements as long as a specified condition evaluates to true. syntax
+
+`while (condition)` 
+  
+  `{statement}`
