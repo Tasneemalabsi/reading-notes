@@ -115,9 +115,7 @@ Adding a new property to an existing object is easy:
 
 **Arrays can be objects**
 
-*arrays are special type of objects, they hold a special set of property-value pairs, consider this example:
-
-![arrays](img/Screenshot from 2021-06-28 01-58-02.png)
+*arrays are special type of objects, they hold a special set of property-value pair.
 
 **Arrays of objects**
 
