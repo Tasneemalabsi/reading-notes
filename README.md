@@ -29,7 +29,7 @@ Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate fr
 | class06 | [link](https://tasneemalabsi.github.io/reading-notes/class06)     |
 | class07 | [link](https://tasneemalabsi.github.io/reading-notes/class07)     |
 | class08   | [link](https://tasneemalabsi.github.io/reading-notes/class08)     |
-| read09  | [link]      |
+| class09  | [link](https://tasneemalabsi.github.io/reading-notes/class09)   |
 | read10   | [link]       |
 | Read11 | [link]      |
 | read12 | [link]     |
