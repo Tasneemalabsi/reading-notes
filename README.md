@@ -38,9 +38,9 @@ Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate fr
 
 
 ## Code 301 - Intermediate Software Development
+
 | read number   | link |
 | ----------- | ----------- |
-| read01     | [link](https://tasneemalabsi.github.io/reading-notes/read01)     |
-
+| class01     | [link](https://tasneemalabsi.github.io/reading-notes/course301/lecture01)    |
 
 ## Code 401 - Advanced Software Development
