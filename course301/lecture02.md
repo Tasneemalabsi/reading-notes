@@ -1,10 +1,12 @@
 # State and Props
+
 ## React: Component Lifecycle Events
-*component lifecycle events are The methods that you are able to use on react components(whether they are classes or functions)*
 
-*These methods can be called during the lifecycle of a component, and they allow you to update the UI and application states, there are 3 phases of this lifecycle which are  : *
+**Component lifecycle events are The methods that you are able to use on react components whether they are classes or functions**
 
-![react](img/react.png)
+*These methods can be called during the lifecycle of a component, and they allow you to update the UI and application states, there are 3 phases of this lifecycle which are:*
+
+![react](/home/user/reading-notes/img/react.png)
 
 **Mounting**
 
@@ -102,7 +104,7 @@ This method exists for rare cases where the state relies on changes in props ove
 
 Here is a chart to help you keep track of the lifecycle events :
 
-![table](img/table.png)
+![table](/home/user/reading-notes/img/table.png)
 
 ## React Bootstrap
 
