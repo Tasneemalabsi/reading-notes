@@ -6,7 +6,7 @@
 
 *These methods can be called during the lifecycle of a component, and they allow you to update the UI and application states, there are 3 phases of this lifecycle which are:*
 
-![react](/home/user/reading-notes/img/react.png)
+![react](https://miro.medium.com/max/2000/0*0saPKFiTUk6W3FYp)
 
 **Mounting**
 
@@ -104,7 +104,7 @@ This method exists for rare cases where the state relies on changes in props ove
 
 Here is a chart to help you keep track of the lifecycle events :
 
-![table](/home/user/reading-notes/img/table.png)
+![table](https://miro.medium.com/max/622/1*4y9V5936WdJKaIeVPFEa3w.png)
 
 ## React Bootstrap
 
