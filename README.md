@@ -46,5 +46,7 @@ Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate fr
 | class03    | [link](https://tasneemalabsi.github.io/reading-notes/course301/lecture03)    |
 | class04    | [link](https://tasneemalabsi.github.io/reading-notes/course301/lecture04)    |
 | class05    | [link](https://tasneemalabsi.github.io/reading-notes/course301/lecture05)    |
+| class06   | [link](https://tasneemalabsi.github.io/reading-notes/course301/lecture06)    |
+| class07    | [link](https://tasneemalabsi.github.io/reading-notes/course301/lecture07)    |
 
 ## Code 401 - Advanced Software Development
