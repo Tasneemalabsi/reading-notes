@@ -1,4 +1,4 @@
-# Reading-notes
+# Reading Notes
 
 Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate from the University of Jordan, I know some C++ and Java programming and really excited to learn more
 
@@ -60,4 +60,5 @@ Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate fr
 
 | read number   | link |
 | ----------- | ----------- |
-| class01     | [link](https://tasneemalabsi.github.io/reading-notes/course401/class01)    |
+| class01     | [link](https://tasneemalabsi.github.io/reading-notes/course 401/class01)    |
+| class02     | [link](https://tasneemalabsi.github.io/reading-notes/course 401/class02)    |
