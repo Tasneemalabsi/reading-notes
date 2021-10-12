@@ -1,59 +1,50 @@
-# Big O Notation
-*Big O notation describes the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used by an algorithm.*
+# Big O Notation & Pain
 
-**below are some common orders of growth along with descriptions and examples where possible:**
+## Big O Notaion
+*Big O notation describes the performance or complexity of an algorithm. so it indicates the time and memory a code will take to execute, the best case is reaching log(n) since it takes the least time and space*
 
-## O(1)
+the orders of the big O Notation are:
 
-*O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.*
+### O(1)
 
-`bool IsFirstElementNull(IList<String> elements)`
+it describes the case when code will executes in the same time and space no matter what's the inputs (constant), example: 
 
-`{`
+`def fact2(n):`
 
-    return elements[0] == null;
+    if n == 0:
+        return 1
+    else:
+        return n * fact2(n-1)
 
-`}`
+`print (fact2(5))`
 
-## O(N)
+### O(N)
 
-*O(N) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set. The example below also demonstrates how Big O favours the worst-case performance scenario*
+*O(N) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set. for example:*
 
-`bool ContainsValue(IEnumerable<string> elements, string value)`
+`def fact(n):`
 
-`{`
-    
-    foreach (var element in elements)
-    {
-        if (element == value) return true; 
-    }     
-    return false; 
-`}`
+    product = 1
+    for i in range(n):
+        product = product * (i+1)
+    return product
 
-## O(N²)
+`print (fact(5))`
 
-*O(N²) represents an algorithm whose performance is directly proportional to the square of the size of the input data set. This is common with algorithms that involve nested iterations over the data set.*
+### O(N²)
 
-`bool ContainsDuplicates(IList<string> elements)`
+*O(N²) represents an algorithm whose performance is directly proportional to the square of the size of the input data set. example:*
 
-`{`
-    
-    for (var outer = 0; outer < elements.Count; outer++) 
-    {
-        for (var inner = 0; inner < elements.Count; inner++) 
-        { 
-            // Don't compare with self 
-            if (outer == inner) continue;             
-            
-            if (elements[outer] == elements[inner]) return true; 
-        }
-    }    
-    return false;
-`}`
+`a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]`
 
-## O(2^N)
+`for i in a:`
 
-*O(2^N) denotes an algorithm whose growth doubles with each addition to the input data set. An example of an O(2^N) function is the recursive calculation of Fibonacci numbers:*
+    for x in a:
+        print("x")
+
+### O(2^N)
+
+*O(2^N) denotes an algorithm whose growth doubles with each addition to the input data set. Example*
 
 `int Fibonacci(int number)`
 
@@ -64,15 +55,22 @@
     return Fibonacci(number - 2) + Fibonacci(number - 1); 
 `}`
 
-## Logarithms
+### Logarithms
 
-- *Binary search is a technique used to search sorted data sets. It works by selecting the middle element of the data set, essentially the median, and compares it against a target value. If the values match, it will return success. If the target value is higher than the value of the probe element, it will take the upper half of the data set and perform the same operation against it.*
+*This type of algorithm is described as O(log N). The iterative halving of data sets described in the binary search example produces a growth curve that peaks at the beginning and slowly flattens out as the size of the data sets increase*
 
-- *This type of algorithm is described as O(log N). The iterative halving of data sets described in the binary search example produces a growth curve that peaks at the beginning and slowly flattens out as the size of the data sets increase, for example:*
+**the graph below summarizes the oreders of the big O notation:**
 
- **an input data set containing 10 items takes one second to complete, a data set containing 100 items takes two seconds, and a data set containing 1,000 items will take three seconds. Doubling the size of the input data set has little effect on its growth as after a single iteration of the algorithm the data set will be halved and therefore on a par with an input data set half the size. This makes algorithms like binary search extremely efficient when dealing with large data sets.**
-
+![big o graph](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-3988-9_1/MediaObjects/465726_1_En_1_Fig1_HTML.jpg)
 
  ## Pain vs. Suffering
 
-*the article talks about the efforts that 401 students have to do in order to get the 
+- *the article talks about the efforts that 401 students have to do in order to obtain the best results*
+- it talks about how it's going to be a painful journey but we have to exceed our limits so we could be competent programmers
+- it also talks about how we should deal and live with this pain
+
+always remember through this pain these questions: 
+- What’s your perspective?
+- Why are you doing this?
+-Do you want what comes at the end of this journey?
+- Are you doing this for you?
