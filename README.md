@@ -67,3 +67,4 @@ Intro: Hello, I'm Tasneem Al-Absi, I am 23 years old. I am a physics graduate fr
 | class05     | [link](https://tasneemalabsi.github.io/reading-notes/course 401/class05)    |
 | class06     | [link](https://tasneemalabsi.github.io/reading-notes/course 401/class06)    |
 | class07     | [link](https://tasneemalabsi.github.io/reading-notes/course 401/class07)    |
+| class08     | [link](https://tasneemalabsi.github.io/reading-notes/course 401/class08)    |
