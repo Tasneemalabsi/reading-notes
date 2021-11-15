@@ -201,9 +201,6 @@ def renew_book_librarian(request, pk):
 - {{ form.renewal_date.id_for_label }}: The id of the label.
 - {{ form.renewal_date.help_text }}: The field help text.
 
-### Testing the page
-
-`{% if perms.catalog.can_mark_returned %}- <a href="{% url 'renew-book-librarian' bookinst.id %}">Renew</a>  {% endif %}`
 
 ### What does it look like?
 
