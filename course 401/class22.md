@@ -194,7 +194,6 @@ def renew_book_librarian(request, pk):
 **Template:**
 
 ```
-{% extends "base_generic.html" %}
 
 {% block content %}
   <h1>Renew: {{ book_instance.book.title }}</h1>
