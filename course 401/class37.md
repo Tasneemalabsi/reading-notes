@@ -75,4 +75,3 @@ The fact that OSS is visible to the public means that prospective employers can 
 5. Improve Software on a User and Business Level.
 
 This desire to contribute can also resonate on a business level. If a business owner or company is using a piece of open-source software and would like to make some changes or add new features to meet a certain business need, then this is also a real possibility. The result is a win-win situation, as the business gets a new feature (either by developing it themselves or suggesting it to the core team) and the software also receives a new feature that can often be utilized by other users.
-
